@@ -29,12 +29,7 @@ if (!defined('APPPATH'))
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-    <a class="twitter-follow-button"
-  href="https://twitter.com/twitterdev"
-  data-show-count="false"
-  data-lang="en">
-Follow @twitterdev
-</a>
+    
 <script type="text/javascript">
 window.twttr = (function (d, s, id) {
   var t, js, fjs = d.getElementsByTagName(s)[0];
