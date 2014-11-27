@@ -1,3 +1,4 @@
+
 <h4>From {origin} to {destination}</h4>
 <div class="{alerting}">
     {errormessages}
