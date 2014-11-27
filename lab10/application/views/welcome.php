@@ -25,4 +25,5 @@
 <br>
 
 <div class="fb-like" data-href="http://comp4711.local" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-<div class="fb-follow" data-href="https://www.facebook.com/Clee1029?fref=ts" data-colorscheme="light" data-layout="standard" data-show-faces="true"></div>
+<br>
+<div class="fb-follow" data-href="https://www.facebook.com/bcit.ca" data-colorscheme="light" data-layout="standard" data-show-faces="true"></div>
