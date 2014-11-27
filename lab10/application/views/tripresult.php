@@ -1,3 +1,4 @@
+
 <h4>From {origin} to {destination}</h4>
 <div class="{alerting}">
     {errormessages}
@@ -19,3 +20,4 @@
 
 
 <a href="/planner" class="btn btn-large btn-primary">Next Trip</a>
+
