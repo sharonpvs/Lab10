@@ -7,4 +7,4 @@
     {submit}
 </form>
 
-<a href="/" class="btn btn-large btn-primary">Back</a>
+<a href="/" class="btn btn-primary">Back</a>
