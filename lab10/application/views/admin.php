@@ -1,6 +1,7 @@
 <p class="lead">
     Our Menu List
         <a href="/admin/list2" class="btn btn-large btn-error">Show Editable Items!</a>
+        <a href="/" class="btn btn-large btn-primary">Back</a>
 
 </p>
 <table class="table">

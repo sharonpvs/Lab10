@@ -19,3 +19,4 @@
 
 
 <a href="/planner" class="btn btn-large btn-primary">Next Trip</a>
+<a href="/" class="btn btn-large btn-primary">Back</a>
