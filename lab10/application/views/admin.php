@@ -19,3 +19,9 @@
     </tr>
     {/items}
 </table>
+<a class="twitter-follow-button"
+  href="https://twitter.com/twitterdev"
+  data-show-count="false"
+  data-lang="en">
+Follow @twitterdev
+</a>
