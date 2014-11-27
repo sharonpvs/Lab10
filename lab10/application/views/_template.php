@@ -20,7 +20,7 @@ if (!defined('APPPATH'))
         <link rel="stylesheet" type="text/css" href="/assets/css/style.css"/>
     </head>
     
-        <!-- fb like button -->
+        <!-- fb java script -->
     <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -30,6 +30,7 @@ if (!defined('APPPATH'))
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
     
+    <!-- twitter javascript -->
 <script type="text/javascript">
 window.twttr = (function (d, s, id) {
   var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -40,8 +41,10 @@ window.twttr = (function (d, s, id) {
   return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
 }(document, "script", "twitter-wjs"));
 </script>
-    
-    
+    <!-- share this javascript -->
+    <script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
   
     <body>
         <div class="container">

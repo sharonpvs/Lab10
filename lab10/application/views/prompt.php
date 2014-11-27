@@ -6,3 +6,5 @@
     {destination}
     {submit}
 </form>
+
+<a href="/" class="btn btn-large btn-primary">Back</a>
